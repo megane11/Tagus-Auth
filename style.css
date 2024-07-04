@@ -1,0 +1,67 @@
+body{
+    background: linear-gradient(to right, rgb(99, 184, 253), rgb(104, 235, 189));
+}
+.first{
+    background-color: rgb(215, 245, 245);
+    width: 15%;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 30px;
+    
+}
+.first form{
+    display: flex;
+    flex-direction: column;
+}
+.first form input{
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 10px;
+
+}
+.sub{
+    background-color: rgb(70, 214, 70);
+    width: 50%;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: 1px solid;
+}
+.second{
+    background-color: lightblue;
+    width: 15%;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 30px;
+}
+.second form{
+    display: flex;
+    flex-direction: column;
+}
+.second form input{
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 10px;
+}
+img{
+    width: 15%;
+    border-radius: 50%;
+    /* display: flex; */
+    /* flex-direction: column; */
+    margin: 18px;
+}
+/* p{
+    color: red;
+    font-weight: bold;
+} */
+.third{
+    width: 30%;
+    background-color: rgb(187, 187, 245);
+    margin: 0 auto;
+
+}
+.dash{
+    display: flex;
+    flex-direction: column;
+}
